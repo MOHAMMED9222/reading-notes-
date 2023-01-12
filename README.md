@@ -1,4 +1,8 @@
-# Reading-Notes
+# MY STORY
+
+**WHADDUP**
+
+I am Mohammed Abubakar, my friends call me Silk. I am from Paterson, Nj and i am Navy veteran. I served for 5 years and served on a 313 day deployment on the USS Shoup in 2013. That was the longest deployment on a US DDG since WWII. 
 
 ## Growth mindset in my own words 
 
@@ -10,7 +14,9 @@ Here is my interpretation and reminder of what **growth** is to me
 
 - Never Give up. Just try a new way 
 
-# Code 102 Reading Notes
+# TABLE OF CONTENTS
+
+## Code 102 Reading Notes
 
 * [CLASS 1](./code-102/class1.md)
 
@@ -29,7 +35,7 @@ Here is my interpretation and reminder of what **growth** is to me
 * [CLASS 8](./code-102/class8.md)
 
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 
 * [CLASS 1](./code-201/201class1.md)
 
