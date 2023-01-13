@@ -1,6 +1,6 @@
 *[Reading Notes](https://mohammed9222.github.io/reading-notes-/)
 
-# Class 6 Notes
+# Class 7 Notes
 
 **CONTROL FLOW**
 
