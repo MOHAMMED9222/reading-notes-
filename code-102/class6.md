@@ -11,5 +11,8 @@
 - Ways to interact with Java
 - *ALERT, DOCUMENT.WRITE, CONSOLE.LOG, PROMPT, CONFIRM*
 
+## THINGS I WOULD LIKE TO KNOW
+
+When do we learn about javascript updates?
 
 
