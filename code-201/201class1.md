@@ -71,6 +71,10 @@
   - Elements cannot be partially contained by other elements
       
   - semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
+      
+      ## Things i ant to know
+      
+      With Jss, when do we get to make things jump out the screen.
   
 
   
