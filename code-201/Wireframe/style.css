@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #444;
+}
+
+main {
+  background-color: goldenrod;
+  width: 960px;
+  margin: 30px auto 30px;
+  flex-wrap: wrap;
+}
+
+footer {
+  background-color: forestgreen;
+  height: 50px;
+}
+
+/* nav {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+li a {
+  
+} */
+
