@@ -27,6 +27,14 @@ The <input> tag is a void element, meaning that it doesn't need a closing tag. <
 < FORM >
 All forms start with a < form > element. It's a container element like a < section > or < footer > element, but specifically for containing forms; it also supports some specific attributes to configure the way the form behaves
   
+**addEventListener()**
+
+Two parameters: the name of the event we want to register this handler for, and the code that comprises the handler function we want to run in response to it.
+  
+**EVENT**
+  
+Inside an event handler function, you'll see a parameter specified with a name such as event, evt, or e. This is called the event object, and it is automatically passed to event handlers to provide extra features and information.
+  
 ## THINGS I WANT TO KNOW
 -_-
 GIThub doesnt like < > spaced together
