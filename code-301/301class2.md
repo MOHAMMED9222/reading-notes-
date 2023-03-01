@@ -47,3 +47,6 @@ This method is useful for performing network requests after a change has occurre
 **componentWillUnmount()**
 This method allows you to clean up the DOM and netwrok requests/ subscriptions.
 
+## THINGS I WANT TO KNOW
+Embracing what im learning
+
